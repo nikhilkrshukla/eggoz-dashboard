@@ -1,2 +1,2 @@
-# eggoz-dashboard
-Created with CodeSandbox
+# https://mfzyr.csb.app
+Hosted with CodeSandbox
