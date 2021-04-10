@@ -1,0 +1,23 @@
+.drawer {
+  width: 15%;
+  height: 100%;
+  background: #b79891;
+  background: -webkit-linear-gradient(to top, #94716b, #b79891);
+  background: linear-gradient(to top, #94716b, #b79891);
+}
+.logo {
+  margin: 0px;
+  padding: 20px;
+}
+.image {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+hr.solid {
+  /* border-top: 3px solid #bbb; */
+}
+.menu {
+  color: white;
+  padding: 2px;
+}
